@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ### 3. Ejecutar un ejemplo
 
 ```bash
-python examples/knapsack_example.py
+python -m examples.knapsack_example
 ```
 
 ---
